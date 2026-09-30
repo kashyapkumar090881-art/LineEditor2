@@ -35,8 +35,7 @@ An array was chosen because the document is small and accessing lines by their n
 ## Team Members
 
 1. KASHYAP KUMAR M GHATKE
-2. Team Member 2
-3. Team Member 3
+2. KARTHIK K.S
 
 ## How to Compile
 
